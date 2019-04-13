@@ -11,11 +11,9 @@ package my_calculator;
  */
 public class My_Calculator {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
     
+    public int add(int a, int b){
+    
+            return a + b;
+    }
 }
